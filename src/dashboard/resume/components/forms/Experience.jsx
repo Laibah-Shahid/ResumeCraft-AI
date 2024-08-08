@@ -139,7 +139,7 @@ function Experience() {
                             />
                         </div>
                         <div className='col-span-2'>
-                           {/* Work Summary  */}
+                           {/* Work Summery  */}
                            <RichTextEditor
                            index={index}
                            defaultValue={item?.workSummery}

@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { SignIn } from '@clerk/clerk-react'
 import React from 'react'
 
